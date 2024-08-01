@@ -58,4 +58,4 @@ for i in num_1:
 
         i += 1
 
-print(*password)
+print ('Ваш пароль :', *password)
